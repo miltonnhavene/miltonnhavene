@@ -1,16 +1,22 @@
-## Hi there 👋
+**Olá, sou João Nhavene! 👋**
 
-<!--
-**miltonnhavene/miltonnhavene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor Frontend | Apaixonado por Inovação e Tecnologia**
 
-Here are some ideas to get you started:
+Sou um desenvolvedor frontend com experiência em construir interfaces de usuário elegantes, responsivas e eficientes. Gosto de transformar ideias em realidade usando HTML, CSS, JavaScript, React, e outras tecnologias modernas de desenvolvimento web. Sempre buscando novas formas de melhorar a experiência do usuário e aprender novas técnicas!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+
+**🚀 Habilidades Principais**
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Bootstrap
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________
+
+**📫 Como me encontrar**
+💼 LinkedIn: [João Nhavene](https://www.linkedin.com/in/joao-nhavene-4578272b0/)
+🌐 Portfólio: https://joao-nhavene.vercel.app/
+✉️ E-mail: joaonhavene5@gmail.com
